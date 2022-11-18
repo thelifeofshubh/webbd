@@ -1,0 +1,19 @@
+label {
+    display: block;
+    font-family: 1rem 'Fira Sans', Cursive;
+    font-size:40px;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+div
+{
+text-align:center;
+font-size:40px;
+
+}
+body{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://img.freepik.com/free-photo/pink-sky-background-with-crescent-moon_53876-129048.jpg?w=2000);
+}
